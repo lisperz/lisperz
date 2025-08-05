@@ -19,7 +19,7 @@
 
 🌱 **Passionate about** building intelligent systems that solve real-world problems using cutting-edge AI and data science techniques
 
-📍 **Based in** Illinois, USA | **Available for** exciting ML/AI and Software Engineering opportunities
+📍 **Based in** Illinois, USA | **Available for** exciting ML/AI opportunities
 
 ## 🏢 Professional Experience
 
@@ -113,11 +113,6 @@
 - 🚀 **5+ Production ML Systems** deployed and maintained
 - 📈 **25% Accuracy Improvement** in genomic yield predictions
 - ⚡ **3.2x Performance Boost** in video processing pipelines
-
-## 📝 Recent Activities
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 🌐 Let's Connect!
 
