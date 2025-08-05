@@ -1,4 +1,4 @@
-# Hi there, I'm Chen Zhu! 👋
+# Hi there, I'm Chen! 👋
 
 <div align="center">
   
@@ -141,5 +141,6 @@
 **"Building intelligent systems with data and machine learning"** 🤖✨
 
 *Thanks for visiting! Feel free to reach out for collaborations or just to say hi!* 😊
+
 
 </div>
