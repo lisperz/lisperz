@@ -19,7 +19,7 @@
 
 🌱 **Passionate about** building intelligent systems that solve real-world problems using cutting-edge AI and data science techniques
 
-📍 **Based in** Illinois, USA | **Available for** exciting ML/AI opportunities
+📍 **Based in** Illinois, USA | **Available for** exciting ML/AI/SDE opportunities
 
 ## 🏢 Professional Experience
 
@@ -144,3 +144,4 @@
 
 
 </div>
+
