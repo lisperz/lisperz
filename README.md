@@ -24,7 +24,7 @@
 ## 🏢 Professional Experience
 
 ### 🤖 Machine Learning Engineer @ MetaFrazo
-*August 2025 - December 2025 | Bloomington, IL*
+*August 2025 - Present | Bloomington, IL*
 - Built AI-powered video text-inpainting service achieving **92%+ accuracy**
 - Optimized async pipeline with **3.2x throughput boost** using Redis & PostgreSQL
 - Developed **20+ RESTful APIs** serving **500+ users** across multiple tiers
@@ -144,4 +144,5 @@
 
 
 </div>
+
 
