@@ -13,17 +13,17 @@
 
 ## 🚀 About Me
 
-🎓 **Currently pursuing** MS in Information Management - Data Science and Analytics at **University of Illinois at Urbana-Champaign** (GPA: 3.89/4.0)
+🎓 **Currently pursuing** MS in Information Science at **University of Illinois at Urbana-Champaign** (GPA: 3.92/4.0)
 
 💼 **Machine Learning Engineer** with experience in AI systems, genomic data analysis, and scalable backend development
 
 🌱 **Passionate about** building intelligent systems that solve real-world problems using cutting-edge AI and data science techniques
 
-📍 **Based in** Illinois, USA | **Available for** exciting ML/AI/SDE opportunities
+📍 **Based in** Illinois, USA | **Available for** exciting ML/SDE/DS opportunities
 
 ## 🏢 Professional Experience
 
-### 🤖 Machine Learning Engineer - Full Stack Development @ MetaFrazo
+### 🤖 Machine Learning Engineer @ MetaFrazo
 *August 2025 - Present | Bloomington, IL*
 - Built AI-powered video text-inpainting service achieving **92%+ accuracy**
 - Optimized async pipeline with **3.2x throughput boost** using Redis & PostgreSQL
@@ -144,6 +144,7 @@
 
 
 </div>
+
 
 
 
