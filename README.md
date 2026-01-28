@@ -93,30 +93,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lisperz&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%">
 </div>
 
-## 🎯 Featured Projects
 
-### 🎬 [AI Video Text Inpainting System](https://github.com/lisperz/ai-video-text-inpainting)
-> **AI-powered video processing service** achieving 92%+ text removal accuracy
-- **Tech Stack:** FastAPI, Celery, Redis, PostgreSQL, GhostCut API
-- **Impact:** Serving 500+ users, 30% runtime reduction, 3.2x throughput boost
-
-### 🧬 [Genomic Prediction Pipeline](https://github.com/lisperz/genomic-prediction-pipeline)
-> **Cloud-scale genomic data processing** with transfer learning
-- **Tech Stack:** AWS (S3, Redshift, SageMaker), PyTorch, GANs, CNN-LSTM
-- **Impact:** 25% accuracy improvement, 40% faster processing, multi-region deployment
-
-### 🍊 [Smart Tangerine Trading System](https://github.com/lisperz/smart-tangerine-system)
-> **Distributed e-commerce platform** for agricultural products
-- **Tech Stack:** Spring Boot, RabbitMQ, Elasticsearch, Redis, Docker
-- **Impact:** 500k+ kg transactions, 98% data accuracy, 99.8% payment success
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **MS in Information Management** - UIUC (GPA: 3.89/4.0)
-- 🎖️ **Bachelor of Engineering** - Information Security (GPA: 3.47/4.0)
-- 🚀 **5+ Production ML Systems** deployed and maintained
-- 📈 **25% Accuracy Improvement** in genomic yield predictions
-- ⚡ **3.2x Performance Boost** in video processing pipelines
 
 ## 🌐 Let's Connect!
 
@@ -148,6 +125,7 @@
 
 
 </div>
+
 
 
 
