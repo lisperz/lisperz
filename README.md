@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 **Currently pursuing** MS in Information Science at **University of Illinois at Urbana-Champaign** (GPA: 3.92/4.0)
+🎓 **Open Source Enthusiast, Currently pursuing** MS in Information Science at **University of Illinois at Urbana-Champaign** (GPA: 3.92/4.0)
 
 
 ## 🏢 Professional Experience
