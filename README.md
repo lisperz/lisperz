@@ -80,26 +80,6 @@
 
 
 
-## 💭 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-  
-**"Building intelligent systems with data and machine learning"** 🤖✨
-
-*Thanks for visiting! Feel free to reach out for collaborations or just to say hi!* 😊
-
-
-</div>
-
-
 
 
 
