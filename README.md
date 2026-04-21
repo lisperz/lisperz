@@ -15,11 +15,6 @@
 
 🎓 **Currently pursuing** MS in Information Science at **University of Illinois at Urbana-Champaign** (GPA: 3.92/4.0)
 
-💼 **Machine Learning Engineer** with experience in AI systems, genomic data analysis, and scalable backend development
-
-🌱 **Passionate about** building intelligent systems that solve real-world problems using cutting-edge AI and data science techniques
-
-📍 **Based in** Illinois, USA | **Available for** exciting ML/SDE/DS opportunities
 
 ## 🏢 Professional Experience
 
@@ -29,22 +24,13 @@
 
 ### 🤖 Machine Learning Engineer @ MetaFrazo
 *August 2025 - Dec 2025 | Bloomington, IL*
-- Built AI-powered video text-inpainting service achieving **92%+ accuracy**
-- Optimized async pipeline with **3.2x throughput boost** using Redis & PostgreSQL
-- Developed **20+ RESTful APIs** serving **500+ users** across multiple tiers
-- Reduced service recovery latency from **20s to <8s** with containerized deployment
 
 ### 🧬 Applied Data Science Intern @ Syngenta
 *May 2025 - August 2025 | Durham, NC*
-- Engineered genomic prediction pipeline reducing preparation time by **40%** for 1M+ marker datasets
-- Leveraged **GANs** and **Transfer Learning** to increase yield prediction accuracy by **25%**
-- Led development with **12 stakeholders**, delivering CI/CD-ready pipeline reused in **5+ projects**
 
 ### 💻 Software Engineer Intern @ China Telecom
 *December 2023 - February 2024 | Jiangxi, China*
-- Designed Smart Tangerine system supervising **500k+ kilos** transactions
-- Reduced abandoned transaction rates by **20%** with RabbitMQ and Spring Boot
-- Achieved **98% data accuracy** and **99.8% payment success rate**
+
 
 ## 🛠️ Tech Stack
 
