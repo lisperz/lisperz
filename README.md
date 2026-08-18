@@ -17,13 +17,15 @@
 
 
 ## 🏢 Professional Experience
+### 🤖 Machine Learning Engineer @ CaseGuard
+*June 2026 - Present | Arlington, VA
 
-### 🤖 Software Engineer @ Phraze
-*Dec 2025 - Present | Champaign, IL*
+### 🤖 Founding Engineer @ Nvwa
+*March 2026 - May 2026 | Chicago, IL
+
+### 🤖 SDE & MLE @ Phraze
+*August 2025 - March 2026 | Champaign, IL*
 - Full Stack Engineering
-
-### 🤖 Machine Learning Engineer @ MetaFrazo
-*August 2025 - Dec 2025 | Bloomington, IL*
 
 ### 🧬 Applied Data Science Intern @ Syngenta
 *May 2025 - August 2025 | Durham, NC*
