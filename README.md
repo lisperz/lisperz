@@ -24,14 +24,12 @@ June 2026 - Present | Arlington, VA
 March 2026 - May 2026 | Chicago, IL
 
 ### 🤖 SDE & MLE @ Phraze
-August 2025 - March 2026 | Champaign, IL*
+August 2025 - March 2026 | Champaign, IL
 - Full Stack Engineering
 
 ### 🧬 Applied Data Science Intern @ Syngenta
-May 2025 - August 2025 | Durham, NC*
+May 2025 - August 2025 | Durham, NC
 
-### 💻 Software Engineer Intern @ China Telecom
-December 2023 - February 2024 | Jiangxi, China*
 
 
 ## 🛠️ Tech Stack
