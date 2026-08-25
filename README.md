@@ -18,7 +18,7 @@
 
 ## 🏢 Professional Experience
 ### 🤖 Machine Learning Engineer @ CaseGuard
-June 2026 - Aug 2026 | Arlington, VA
+June 2026 - August 2026 | Arlington, VA
 
 ### 🤖 Founding Engineer @ Nvwa
 March 2026 - May 2026 | Chicago, IL
