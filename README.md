@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 **Open Source Enthusiast, currently pursuing** MS in Information Science at **University of Illinois at Urbana-Champaign** (GPA: 3.92/4.0)
+🎓 Open Source Enthusiast, Matser Degree at **University of Illinois at Urbana-Champaign**
 
 
 ## 🏢 Professional Experience
