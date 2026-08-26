@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 Open Source Enthusiast, Matser Degree at **University of Illinois at Urbana-Champaign**
+🎓 Open Source Enthusiast, Masters Degree at **University of Illinois at Urbana-Champaign**
 
 
 ## 🏢 Professional Experience
