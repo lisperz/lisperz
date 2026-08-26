@@ -27,7 +27,7 @@ March 2026 - May 2026 | Chicago, IL
 August 2025 - March 2026 | Champaign, IL
 - Full Stack Engineering
 
-### 🧬 Applied Data Science Intern @ Syngenta
+### 🧬 Applied Data Scientist @ Syngenta
 May 2025 - August 2025 | Durham, NC
 
 
